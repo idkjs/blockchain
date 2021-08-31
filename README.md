@@ -10,5 +10,8 @@ and using Brr for web front end
 
 https://github.com/dbuenzli/brr
 
+```sh
+dune exec src/server/blockchainapp.exe
 
+```
 
